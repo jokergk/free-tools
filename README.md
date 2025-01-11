@@ -12,6 +12,6 @@ A Python script to generate random phone numbers with customizable formats. Numb
 
 ## Installation
 
-   git clone https://github.com/jokergk/free-tools/blob/main/phone-numbers-gen.py
-   cd phone-number-generator
-   python phone-numbers-gen.py
+   - git clone https://github.com/jokergk/free-tools/blob/main/phone-numbers-gen.py
+   - cd phone-number-generator
+   - python phone-numbers-gen.py
