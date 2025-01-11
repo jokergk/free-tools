@@ -15,4 +15,4 @@ A Python script to generate random phone numbers with customizable formats. Numb
    ```bash
    git clone https://github.com/your-username/phone-number-generator.git
    cd phone-number-generator
-   python phone_number_generator.py
+   python phone-numbers-gen.py
